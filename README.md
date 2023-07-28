@@ -23,8 +23,6 @@ _Itálico com underline_
 
 __Negrito com underline__
 
-~~Riscado~~~
-
 **_Negrito e itálico_** 
 
 ## 4. Links
