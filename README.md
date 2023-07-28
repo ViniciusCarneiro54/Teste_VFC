@@ -62,3 +62,4 @@ def funcao():
 
 ## 9. Imagens
 ![](https://www.databricks.com/en-website-assets/static/90d0508bebd533f277bdaa874bf1c15b/8562b/largest-open-source-apache-spark.png)
+![](imagens/word-image-48.png)
